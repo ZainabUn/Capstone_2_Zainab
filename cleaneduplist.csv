@@ -284,22 +284,22 @@ cust_id,date,time,name,email,phone,sms-opt-out
 283,2023-12-18,20:20:00,Joe Keene Jr.,keene@keenecounty.police,918-555-2108,N
 284,2024-01-31,07:45:15,Red Scare,redscare@keenecounty.police,918-555-2109,N
 285,2024-03-15,12:10:30,Pirate Jenny,jenny@keenecounty.police,918-555-2110,N
-286,2023-01-01,08:00:00,Jean-Luc Picard,picard@enterprise.starfleet,1701-555-2201,N
-287,2023-02-14,12:25:15,William Riker,riker@enterprise.starfleet,1701-555-2202,N
-288,2023-03-27,15:50:30,Data,data@enterprise.starfleet,1701-555-2203,N
-289,2023-05-10,19:15:45,Geordi La Forge,geordi@enterprise.starfleet,1701-555-2204,N
-290,2023-06-23,07:40:00,Worf,worf@enterprise.starfleet,1701-555-2205,Y
-291,2023-08-06,11:05:15,Deanna Troi,troi@enterprise.starfleet,1701-555-2206,N
-292,2023-09-19,14:30:30,Beverly Crusher,crusher@enterprise.starfleet,1701-555-2207,N
-293,2023-11-02,17:55:45,Wesley Crusher,wesley@enterprise.starfleet,1701-555-2208,N
-294,2023-12-15,21:20:00,Tasha Yar,tasha@enterprise.starfleet,1701-555-2209,N
-295,2024-01-28,09:45:15,Guinan,guinan@enterprise.starfleet,1701-555-2210,N
+286,2023-01-01,08:00:00,Jean-Luc Picard,picard@enterprise.starfleet,701-555-2201,N
+287,2023-02-14,12:25:15,William Riker,riker@enterprise.starfleet,701-555-2202,N
+288,2023-03-27,15:50:30,Data,data@enterprise.starfleet,701-555-2203,N
+289,2023-05-10,19:15:45,Geordi La Forge,geordi@enterprise.starfleet,701-555-2204,N
+290,2023-06-23,07:40:00,Worf,worf@enterprise.starfleet,701-555-2205,Y
+291,2023-08-06,11:05:15,Deanna Troi,troi@enterprise.starfleet,701-555-2206,N
+292,2023-09-19,14:30:30,Beverly Crusher,crusher@enterprise.starfleet,701-555-2207,N
+293,2023-11-02,17:55:45,Wesley Crusher,wesley@enterprise.starfleet,701-555-2208,N
+294,2023-12-15,21:20:00,Tasha Yar,tasha@enterprise.starfleet,701-555-2209,N
+295,2024-01-28,09:45:15,Guinan,guinan@enterprise.starfleet,701-555-2210,N
 296,2023-02-08,09:10:25,Benjamin Sisko,sisko@ds9.starfleet,247-555-2301,N
 297,2023-03-21,13:35:40,Kira Nerys,kira@ds9.starfleet,247-555-2302,N
 298,2023-05-04,17:00:55,Odo,odo@ds9.starfleet,247-555-2303,N
 299,2023-06-17,20:25:10,Jadzia Dax,dax@ds9.starfleet,247-555-2304,N
 300,2023-07-30,08:50:25,Julian Bashir,bashir@ds9.starfleet,247-555-2305,Y
-301,2023-09-12,12:15:40,Miles O[']Brien,obrien@ds9.starfleet,,
+301,2023-09-12,12:15:40,Miles O[']Brien,obrien@ds9.starfleet,nan,
 302,2023-02-14,08:15:25,Buffy Summers,buffy@sunnydale.high,805-555-1101,N
 303,2023-04-28,12:40:50,Willow R.,willow@sunnydale.high,805-555-1102,N
 304,2023-07-05,17:05:15,Xander Harris,xander@sunnydale.high,805-555-1103,N
