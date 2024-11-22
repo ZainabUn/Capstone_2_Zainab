@@ -9,3 +9,11 @@ cleaneduplist is the exported file after cleaning the data.
 transaction analysis contains the analyzation of the csv file transaction data
 
 
+some code that I just wanted to save for using later:
+file = input("Enter file name:")
+type= input("Enter file type")
+
+
+customer_data= open(input)
+print(customer_data.read(200))
+customer_data.close()
